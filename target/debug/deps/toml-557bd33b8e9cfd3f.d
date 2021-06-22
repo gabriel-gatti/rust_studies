@@ -1,0 +1,12 @@
+/home/gabriel-gatti/Documents/RustStudyCase/rustlings/target/debug/deps/toml-557bd33b8e9cfd3f.rmeta: /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/lib.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/value.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/datetime.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/ser.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/de.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/tokens.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/macros.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/spanned.rs
+
+/home/gabriel-gatti/Documents/RustStudyCase/rustlings/target/debug/deps/toml-557bd33b8e9cfd3f.d: /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/lib.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/value.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/datetime.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/ser.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/de.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/tokens.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/macros.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/spanned.rs
+
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/lib.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/value.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/datetime.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/ser.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/de.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/tokens.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/macros.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.4.10/src/spanned.rs:

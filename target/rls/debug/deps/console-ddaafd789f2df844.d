@@ -1,0 +1,11 @@
+/home/gabriel-gatti/Documents/RustStudyCase/rustlings/target/rls/debug/deps/console-ddaafd789f2df844.rmeta: /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/lib.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/common_term.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/kb.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/term.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/unix_term.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/utils.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/ansi.rs
+
+/home/gabriel-gatti/Documents/RustStudyCase/rustlings/target/rls/debug/deps/console-ddaafd789f2df844.d: /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/lib.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/common_term.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/kb.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/term.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/unix_term.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/utils.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/ansi.rs
+
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/lib.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/common_term.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/kb.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/term.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/unix_term.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/utils.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.14.1/src/ansi.rs:

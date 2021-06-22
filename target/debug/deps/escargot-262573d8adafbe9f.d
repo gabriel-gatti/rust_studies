@@ -1,0 +1,15 @@
+/home/gabriel-gatti/Documents/RustStudyCase/rustlings/target/debug/deps/escargot-262573d8adafbe9f.rmeta: /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/lib.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/build.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/cargo.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/msg.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/run.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/error.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/format/mod.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/format/diagnostic.rs /home/gabriel-gatti/Documents/RustStudyCase/rustlings/target/debug/build/escargot-084b84286ac849be/out/current_target.txt
+
+/home/gabriel-gatti/Documents/RustStudyCase/rustlings/target/debug/deps/escargot-262573d8adafbe9f.d: /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/lib.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/build.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/cargo.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/msg.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/run.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/error.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/format/mod.rs /home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/format/diagnostic.rs /home/gabriel-gatti/Documents/RustStudyCase/rustlings/target/debug/build/escargot-084b84286ac849be/out/current_target.txt
+
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/lib.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/build.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/cargo.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/msg.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/run.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/error.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/format/mod.rs:
+/home/gabriel-gatti/.cargo/registry/src/github.com-1ecc6299db9ec823/escargot-0.4.0/src/format/diagnostic.rs:
+/home/gabriel-gatti/Documents/RustStudyCase/rustlings/target/debug/build/escargot-084b84286ac849be/out/current_target.txt:
+
+# env-dep:OUT_DIR=/home/gabriel-gatti/Documents/RustStudyCase/rustlings/target/debug/build/escargot-084b84286ac849be/out
